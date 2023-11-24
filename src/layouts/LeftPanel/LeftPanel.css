@@ -1,0 +1,6 @@
+.left-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-width: 400px;
+}
